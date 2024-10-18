@@ -1,1 +1,1 @@
-vijay wagh
+#calculator project using HTML, CSS AND JSs
